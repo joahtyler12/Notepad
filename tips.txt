@@ -1,0 +1,5 @@
+There are only 3 things (6:08):
+
+1. Reading from a variable
+2. Writing to a variable
+3. Conditional branching

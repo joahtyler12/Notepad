@@ -1,0 +1,38 @@
+To make a commit:                                                          
+ - git add {file name}
+ - git commit -m "First Commit"
+
+To add something into the file through the command:
+ - echo {"data"} >> {file name}
+
+To delete something:
+ - rm*{file name}
+
+To create new files:
+ - touch {name}
+
+To see contents of a file:
+- cat {file name}
+
+To push the contents to other
+- git push <remote> <local branch>:<remote branch>
+
+To clone
+- git clone <url> <folder name>
+
+To get something from other 
+- git fetch <remote>
+
+Stash command
+- git stash --> removes the changes
+- git stash pop --> undo the changes
+
+To ignore some files 
+- vim .gitigonre
+
+
+
+objects= tree blob or commit
+objects= map<string, object>
+
+after add and commit a new snapshot is created with a command hash

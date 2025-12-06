@@ -1,0 +1,6 @@
+The syntax for debugging is 
+- python -m ipdb <name of the program>
+
+"l" is used to view the whole program 
+"s" is used to go next step
+"c" is used to get to the program
