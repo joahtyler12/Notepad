@@ -1,0 +1,13 @@
+commom selector and value
+-color
+-background color
+-background image:some img.jpg
+-padding:px
+-margin:px
+-display
+-border_style:solid black
+-border_color
+-border_width
+
+the syntax of the common selector is 
+<p style="selector:value;"> text</p>

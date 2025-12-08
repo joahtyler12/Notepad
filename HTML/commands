@@ -1,0 +1,22 @@
+<a href =" link "> name </a>
+Inline elements
+<a>-Links
+<strong> and <b>-bold
+<input>-input
+<span>-span tags 
+
+Other common attributes	
+<a href="">
+#style
+<p style="color:red"> </p>
+#id and class- specific identification to the element
+<p id ="my paragraph"> this paragraph has an id</p>
+
+title - add extra info about the elements
+<a href =" link " title="go to something"> name </a>
+
+# img
+<img src=" http salksdjksdj.com" Alt="A name for my image">
+
+div
+<div style="padding"
