@@ -1,0 +1,36 @@
+Forms and Input
+Forms
+common attributes
+action:
+method:
+
+
+Input
+common attributes
+type:
+name:
+size:
+max:
+
+textarea
+common attributes
+name
+rows
+cols
+max length
+
+select
+common attributes
+name
+multiple
+size
+
+label
+common attributes
+for
+
+fieldset
+common attributes
+name 
+form 
+disabled

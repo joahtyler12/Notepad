@@ -36,3 +36,6 @@ objects= tree blob or commit
 objects= map<string, object>
 
 after add and commit a new snapshot is created with a command hash
+
+To rename the main or master branch:
+- git branch -M <name>

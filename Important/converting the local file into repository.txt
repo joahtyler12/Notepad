@@ -1,0 +1,11 @@
+At first the folder path is opened in the terminal and since it is not a repository we have to initialize the repository from the command line .then the changes are commited then we have to add the remote the new repository have to be created with no readme.md.the url of the git repository need to be added there in the commands 
+
+the syntax of the process are:
+-git init
+-git add .
+-git commit
+-git remote add origin <url of the repository>
+-git push origin master
+
+If you want to put this in another repository then you have to unlink the old repository 
+-git remote remove origin

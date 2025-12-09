@@ -1,0 +1,20 @@
+Tables and Lists
+<table>
+Tables
+for table heading
+<th> instead of <td>
+<tr>
+<td> contents</>
+</tr>
+</table>
+
+Lists
+Ordered list 
+<ol>
+<li> contents </li>
+</ol>
+
+Unordered Lists
+<ul>
+<li> contents </li>
+</ol>
